@@ -1,0 +1,8 @@
+unicodedata
+requests
+tempfile
+shutil
+subprocess
+slugify
+tqdm
+telethon
