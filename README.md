@@ -60,8 +60,8 @@ The files are going to be downloaded locally and uploaded to Telegram after each
 
 ```
 ### UPDATE ---------
-- Added a way to resume download
-- Added resume uploads to Telegram on the same Topic
+- Added automatic resume download
+- Added automatic resume uploads to Telegram on the same Topic
 - If the choosed resolution doesn't exist the script look for the next lower resolution
 - If the subtitles doesn't exist, now download the default en-US subtitles to avoid error
 
